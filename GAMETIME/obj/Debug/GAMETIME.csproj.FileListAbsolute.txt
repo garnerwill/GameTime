@@ -1,0 +1,7 @@
+C:\Users\gee6w\source\repos\GAMETIME\GAMETIME\bin\Debug\GAMETIME.exe.config
+C:\Users\gee6w\source\repos\GAMETIME\GAMETIME\bin\Debug\GAMETIME.exe
+C:\Users\gee6w\source\repos\GAMETIME\GAMETIME\bin\Debug\GAMETIME.pdb
+C:\Users\gee6w\source\repos\GAMETIME\GAMETIME\obj\Debug\GAMETIME.csprojAssemblyReference.cache
+C:\Users\gee6w\source\repos\GAMETIME\GAMETIME\obj\Debug\GAMETIME.csproj.CoreCompileInputs.cache
+C:\Users\gee6w\source\repos\GAMETIME\GAMETIME\obj\Debug\GAMETIME.exe
+C:\Users\gee6w\source\repos\GAMETIME\GAMETIME\obj\Debug\GAMETIME.pdb
